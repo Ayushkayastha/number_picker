@@ -1,4 +1,4 @@
-library number_picker;
+library infinite_number_picker;
 
 export 'number_picker_widget.dart';
 export 'custom_triangle.dart';

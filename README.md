@@ -10,9 +10,8 @@ A customizable number picker widget for Flutter with infinite scroll, steps, and
 
 ## Demo
 
-<img src="https://raw.githubusercontent.com/yourusername/number_picker/main/assets/demo1.png" width="300">
-<img src="https://raw.githubusercontent.com/yourusername/number_picker/main/assets/demo2.png" width="300">
-
+<img src="https://raw.githubusercontent.com/Ayushkayastha/number_picker/main/assets/demo%201.png" width="300">
+<img src="https://raw.githubusercontent.com/Ayushkayastha/number_picker/main/assets/demo%202.png" width="300">
 ## Installation
 
 ```yaml
